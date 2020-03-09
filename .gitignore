@@ -5,3 +5,4 @@ irc.token
 api.token
 token/irc.token
 token/api.token
+words.db
